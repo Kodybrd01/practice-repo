@@ -9,7 +9,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Python for Data Analytics 
 
-- Analytic Geometry and Calcus 1 
+- Analytic Geometry and Calculus 1 
 
 **Hobbies:**
 
