@@ -1,27 +1,26 @@
-## First Name Last Name
-
-### Term Year 
+## Kody Byrd
+### 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Computation and Programming 
 
-- Course 2
+- Introduction to Data Science 
 
-- Course 3
+- Python for Data Analytics 
 
-- Course 4
+- Analytic Geometry and Calcus 1 
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- History
 
-- Thing 2
+- Video Games 
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Robotics as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/08/31
